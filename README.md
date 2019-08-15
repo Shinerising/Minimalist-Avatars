@@ -1,1 +1,3 @@
 # Minimalist-Avatars
+
+![](feature.jpg)
